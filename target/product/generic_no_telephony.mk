@@ -29,7 +29,6 @@ PRODUCT_PACKAGES := \
     Email \
     Exchange2 \
     FusedLocation \
-    Gallery2 \
     InputDevices \
     Keyguard \
     LatinIME \
@@ -48,6 +47,8 @@ PRODUCT_PACKAGES := \
     hostapd \
     wpa_supplicant.conf \
     WallpaperCropper
+
+#   Gallery2 \
 
 PRODUCT_PACKAGES += \
     audio \
