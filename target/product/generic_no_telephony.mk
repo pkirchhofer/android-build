@@ -32,7 +32,6 @@ PRODUCT_PACKAGES := \
     InputDevices \
     Keyguard \
     LatinIME \
-    Launcher2 \
     Music \
     MusicFX \
     OneTimeInitializer \
@@ -48,6 +47,7 @@ PRODUCT_PACKAGES := \
     wpa_supplicant.conf \
     WallpaperCropper
 
+#   Launcher2 \
 #   Gallery2 \
 
 PRODUCT_PACKAGES += \
